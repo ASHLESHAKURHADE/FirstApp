@@ -6,3 +6,5 @@ Basic Application in __HTML__
 3. javascript
 
 [for more information](http://ccitworld.com)
+
+![App img](https://www.awfis.com/inspiration/practices-better-project-management-skills)
